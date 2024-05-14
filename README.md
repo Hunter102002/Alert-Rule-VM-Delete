@@ -20,13 +20,21 @@ The Azure Alert Rule Creation project aimed to create an alert rule in Azure Mon
 - Azure Activity Log for reviewing resource activity and deletion events.
  
 ## Steps
-Create a Virtual Machine<img width="746" alt="Screenshot 2024-05-12 at 11 25 49 PM" src="https://github.com/Hunter102002/Alert-Rule-VM-Delete/assets/98543129/f99d6987-1d10-4412-9909-47a473372175">
+Create a Virtual Machine
 
-Create an alert rule for all VMs<img width="1466" alt="Screenshot 2024-05-12 at 11 30 26 PM" src="https://github.com/Hunter102002/Alert-Rule-VM-Delete/assets/98543129/83a32033-8ca1-43b8-ae91-9258c0f7870f">
+<img width="746" alt="Screenshot 2024-05-12 at 11 25 49 PM" src="https://github.com/Hunter102002/Alert-Rule-VM-Delete/assets/98543129/f99d6987-1d10-4412-9909-47a473372175">
 
-Delete the VM<img width="586" alt="Screenshot 2024-05-12 at 11 31 03 PM" src="https://github.com/Hunter102002/Alert-Rule-VM-Delete/assets/98543129/57106f5f-e404-45ad-87ce-7611079b05d4">
+Create an alert rule for all VMs
 
-Check email for alert<img width="1148" alt="Screenshot 2024-05-12 at 11 36 28 PM" src="https://github.com/Hunter102002/Alert-Rule-VM-Delete/assets/98543129/d035fa5e-8a2f-4b6a-9d94-c97775ec1c65">
+<img width="1466" alt="Screenshot 2024-05-12 at 11 30 26 PM" src="https://github.com/Hunter102002/Alert-Rule-VM-Delete/assets/98543129/83a32033-8ca1-43b8-ae91-9258c0f7870f">
+
+Delete the VM
+
+<img width="586" alt="Screenshot 2024-05-12 at 11 31 03 PM" src="https://github.com/Hunter102002/Alert-Rule-VM-Delete/assets/98543129/57106f5f-e404-45ad-87ce-7611079b05d4">
+
+Check email for alert
+
+<img width="1148" alt="Screenshot 2024-05-12 at 11 36 28 PM" src="https://github.com/Hunter102002/Alert-Rule-VM-Delete/assets/98543129/d035fa5e-8a2f-4b6a-9d94-c97775ec1c65">
 
 Check alerts to ensure alert was fired<img width="1189" alt="Screenshot 2024-05-12 at 11 36 43 PM" src="https://github.com/Hunter102002/Alert-Rule-VM-Delete/assets/98543129/b25d677d-aa73-4fab-9d0b-f9d77d00c414">
 
